@@ -1,0 +1,131 @@
+<!-- about page -->
+<p>
+  Hello, I am John Doe and I am a web developer. I live and work in
+  somewhere warm. I spend most of my day, experimenting with HTML, CSS and
+  JavaScript (and its endless list of frameworks). I enjoy coding and the
+  challenge of learning something new everyday. You can also find me at youtube
+  channel
+  <a href="https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA"
+    >coding addict</a
+  >
+</p>
+
+<!-- contact page-->
+<p>
+  If you are looking to get ahold of me, you can send me an email at
+  <a href="mailto:email@email.com">@your_email</a>
+</p>
+<p>
+  You can also reach me on Twitter at
+  <a href="https://www.twitter.com">@your_social_media </a>
+</p>
+
+ <!-- blog---------------- -->
+    <!-- section title -->
+    <section class="section blog">
+      <div class="section-title">
+        <h2>Blog</h2>
+        <div class="underline"></div>
+      </div>
+      <!--end  section title -->
+      <div class="section-center blog-center">
+        <!-- single article 1-->
+        <div class="card">
+          <!-- front of the card -->
+          <div class="card-side card-front">
+            <img src="./images/project-1.jpeg" alt="project1" />
+            <div class="card-info">
+              <h4>article title</h4>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+                dolor accusantium ipsum asperiores ut veritatis aspernatur
+                ratione excepturi ab nemo?
+              </p>
+              <div class="card-footer">
+                <img src="./images/shash.jpeg" alt="auth image" />
+                <p>7 min read</p>
+              </div>
+            </div>
+          </div>
+          <!-- card back -->
+          <div class="card-side card-back">
+            <button class="btn">read more</button>
+          </div>
+        </div>
+        <!--end single article 2 -->
+        <!-- single article -->
+        <div class="card">
+          <!-- front of the card -->
+          <div class="card-side card-front">
+            <img src="./images/project-2.jpeg" alt="project2" />
+            <div class="card-info">
+              <h4>article title</h4>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+                dolor accusantium ipsum asperiores ut veritatis aspernatur
+                ratione excepturi ab nemo?
+              </p>
+              <div class="card-footer">
+                <img src="./images/shash.jpeg" alt="auth image" />
+                <p>7 min read</p>
+              </div>
+            </div>
+          </div>
+          <!-- card back -->
+          <div class="card-side card-back">
+            <button class="btn">read more</button>
+          </div>
+        </div>
+        <!--end single article -->
+        <!-- single article 3-->
+        <div class="card">
+          <!-- front of the card -->
+          <div class="card-side card-front">
+            <img src="./images/project-3.jpeg" alt="project3" />
+            <div class="card-info">
+              <h4>article title</h4>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+                dolor accusantium ipsum asperiores ut veritatis aspernatur
+                ratione excepturi ab nemo?
+              </p>
+              <div class="card-footer">
+                <img src="./images/shash.jpeg" alt="auth image" />
+                <p>7 min read</p>
+              </div>
+            </div>
+          </div>
+          <!-- card back -->
+          <div class="card-side card-back">
+            <button class="btn">read more</button>
+          </div>
+        </div>
+        <!--end single article -->
+        <!-- single article 4 -->
+        <div class="card">
+          <!-- front of the card -->
+          <div class="card-side card-front">
+            <img src="./images/project-4.jpeg" alt="project4" />
+            <div class="card-info">
+              <h4>article title</h4>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+                dolor accusantium ipsum asperiores ut veritatis aspernatur
+                ratione excepturi ab nemo?
+              </p>
+              <div class="card-footer">
+                <img src="./images/shash.jpeg" alt="auth image" />
+                <p>7 min read</p>
+              </div>
+            </div>
+          </div>
+          <!-- card back -->
+          <div class="card-side card-back">
+            <button class="btn">read more</button>
+          </div>
+        </div>
+        <!--end single article -->
+      </div>
+    </section>
+
+    <!--end of  blog -->
